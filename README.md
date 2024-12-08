@@ -8,10 +8,7 @@
 - 思维导图，**请关注 AIArea 公众号并回复：NLP思维导图** ，即能下载高清大图。
 - ![](https://github.com/NLP-LOVE/Introduction-NLP/raw/master/img/2020-2-3_16-0-25.png?raw=true)
 
-
 ------
-
-
 
 ## 目录
 
@@ -57,7 +54,5 @@
 | 项目     | [18. 智能客服(Intelligent Customer Service)](https://github.com/NLP-LOVE/ML-NLP/tree/master/Project/18.%20Intelligent%20Customer%20Service) | [@mantchs](https://github.com/NLP-LOVE) | 448966528 |
 | 项目     | 19. 知识图谱(Knowledge Graph)                                |                                         |           |
 | 项目     | 20. 评论分析                                                 |                                         |           |
-
-
 
 > 欢迎大家加入！共同完善此项目！NLP学习QQ2群【207576902】<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=1defd70810d9e67ca6ab3a30e1425a8a358139315a186dd2192d82a4c0ca1ce9"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="NLP学习群②" title="NLP学习群②"></a>
